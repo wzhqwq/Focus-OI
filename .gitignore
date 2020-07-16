@@ -62,3 +62,7 @@ typings/
 
 # raw files
 rawDesigns/
+
+.DS_Store
+process
+package-lock.json

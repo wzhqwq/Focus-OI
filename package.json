@@ -1,0 +1,29 @@
+{
+  "name": "focus-oi",
+  "version": "1.0.0",
+  "description": "A friendly training env for Chinese OIers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wzhqwq/Focus-OI.git"
+  },
+  "keywords": [
+    "OI"
+  ],
+  "author": "wzhqwq",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/wzhqwq/Focus-OI/issues"
+  },
+  "homepage": "https://github.com/wzhqwq/Focus-OI#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "electron": "^9.1.0"
+  }
+}
